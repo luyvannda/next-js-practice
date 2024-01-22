@@ -1,5 +1,5 @@
 import scaleImg from "/public/scale.jpg";
-import Hero from "@/components/Hero";
+import Hero from "@/components/hero";
 
 export default function ScalePage() {
   return (
