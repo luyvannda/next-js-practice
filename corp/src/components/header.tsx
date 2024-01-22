@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Header() {
   return (
-    <div className="text-white">
+    <div className="">
       <Link href="/">Home</Link>
       <Link href="/performance">Performance</Link>
       <Link href="/reliability">Reliability</Link>
